@@ -1,0 +1,28 @@
+{
+  "name": "node-api-project",
+  "version": "1.0.0",
+  "description": "Node API practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriy-minashkin/Node-API-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriy-minashkin/Node-API-project/issues"
+  },
+  "homepage": "https://github.com/yuriy-minashkin/Node-API-project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
